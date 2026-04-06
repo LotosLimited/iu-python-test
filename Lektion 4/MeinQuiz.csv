@@ -1,0 +1,5 @@
+name,matrikelnummer,note,studiengang,Bestanden
+Mia,123.0,1.5,Data Science,True
+Tiko,456.0,3.0,Data Science,True
+Lucky,789.0,3.0666666666666664,Mathematik,False
+Jonas,,4.7,Biologie,False
